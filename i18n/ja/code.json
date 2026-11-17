@@ -2174,6 +2174,9 @@
   "events.featured.thisWeek": {
     "message": "今週"
   },
+  "events.featured.happeningNow": {
+    "message": "Happening now"
+  },
   "events.recaps.title": {
     "message": "最近のイベントレポート"
   },

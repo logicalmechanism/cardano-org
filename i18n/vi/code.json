@@ -2174,6 +2174,9 @@
   "events.featured.thisWeek": {
     "message": "Tuần này"
   },
+  "events.featured.happeningNow": {
+    "message": "Happening now"
+  },
   "events.recaps.title": {
     "message": "Tóm tắt các sự kiện gần đây"
   },
