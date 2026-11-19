@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T06:00:49.783Z",
+  "lastUpdated": "2026-11-19T06:01:05.665Z",
   "languages": [
     {
       "id": "de",
@@ -7,13 +7,13 @@
       "translationProgress": 85,
       "approvalProgress": 85,
       "words": {
-        "total": 54279,
+        "total": 54281,
         "translated": 46578,
         "preTranslateAppliedTo": 573,
         "approved": 46575
       },
       "phrases": {
-        "total": 4707,
+        "total": 4708,
         "translated": 4221,
         "preTranslateAppliedTo": 158,
         "approved": 4220
@@ -25,13 +25,13 @@
       "translationProgress": 79,
       "approvalProgress": 79,
       "words": {
-        "total": 54279,
+        "total": 54281,
         "translated": 43142,
         "preTranslateAppliedTo": 2412,
         "approved": 43086
       },
       "phrases": {
-        "total": 4707,
+        "total": 4708,
         "translated": 3912,
         "preTranslateAppliedTo": 241,
         "approved": 3890
@@ -43,13 +43,13 @@
       "translationProgress": 77,
       "approvalProgress": 77,
       "words": {
-        "total": 54279,
+        "total": 54281,
         "translated": 42086,
         "preTranslateAppliedTo": 63,
         "approved": 42086
       },
       "phrases": {
-        "total": 4707,
+        "total": 4708,
         "translated": 3838,
         "preTranslateAppliedTo": 27,
         "approved": 3838
@@ -61,13 +61,13 @@
       "translationProgress": 77,
       "approvalProgress": 76,
       "words": {
-        "total": 54279,
+        "total": 54281,
         "translated": 42099,
         "preTranslateAppliedTo": 4919,
         "approved": 41403
       },
       "phrases": {
-        "total": 4707,
+        "total": 4708,
         "translated": 3840,
         "preTranslateAppliedTo": 659,
         "approved": 3790
